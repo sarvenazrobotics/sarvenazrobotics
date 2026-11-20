@@ -22,13 +22,11 @@ I'm an Embedded Software and Robotics engineer passionate about embedded softwar
 | Category | Technologies |
 |---|---|
 | **Languages** | C, Python, C++ |
-| **Microcontrollers** | STM32, AVR, dsPIC, ESP32 |
-| **SBCs** | Raspberry Pi, NVIDIA Jetson Orin |
-| **RTOS/OS** | FreeRTOS, Bare-Metal, Embedded Linux, Linux/Ubuntu |
-| **Protocols** | SPI, I2C, UART, CAN, Ethernet, MQTT, TCP/IP |
-| **Robotics** | ROS2, OpenCV, Gazebo, Navigation2, PlanSys2, MATLAB/Simulink |
+| **Microcontrollers** | STM32, AVR, dsPIC |
+| **Protocols** | SPI, I2C, UART |
+| **Robotics** | ROS2, Gazebo, PlanSys2, MATLAB |
 | **IDEs** | VS Code, STM32CubeIDE, Keil MDK-ARM |
-| **Test/Debug** | Logic Analyzer, Oscilloscope, Serial Terminals |
+| **Test/Debug** |  Oscilloscope, Serial Terminals |
 
 ---
 
