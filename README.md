@@ -1,3 +1,10 @@
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:sarvenazashoori2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sarvenaz-ashoori-3196a9367"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sarvenazrobotics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 I'm a Robotics Engineering MSc candidate at the **University of Genoa** and a researcher at the **Italian Institute of Technology (IIT)**. I am an Embedded Software and Robotics engineer passionate about bridging the gap between hardware and software, from low-level microcontroller firmware to high-level robotic manipulation and AI-driven perception. 
 
@@ -26,28 +33,6 @@ My work spans **embedded systems** (PIC, AVR), **robotics simulation** (ROS 2, G
 - 🚗 **[PIC-Based Mobile Robot](link-to-repo)** — Embedded C, PIC Microcontroller. Firmware development with PWM motor control, UART communication, and sensor integration.
 - 🌡️ **[AVR Environmental Monitoring System](link-to-repo)** — Embedded C, ATmega328P. Sensor interfacing (DHT11, DS3231) with I2C communication and LCD data display.
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:sarvenazashoori2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sarvenaz-ashoori-3196a9367"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sarvenazrobotics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🛠️ Skills
-
-| Category | Technologies |
-|---|---|
-| **Languages** | C, Python, C++ |
-| **Microcontrollers** | STM32, AVR, dsPIC |
-| **Protocols** | SPI, I2C, UART |
-| **Robotics** | ROS2, Gazebo, PlanSys2, MATLAB |
-| **IDEs** | VS Code, STM32CubeIDE, Keil MDK-ARM |
-| **Test/Debug** |  Oscilloscope, Serial Terminals |
 
 ---
 
