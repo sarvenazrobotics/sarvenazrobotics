@@ -25,7 +25,7 @@ My work spans **embedded systems** (PIC, AVR), **robotics simulation** (ROS 2, G
 
 ---
 
-### 📁 Projects & Research
+### 📁 Projects & Research Highlight
 
 - 🤖 **[ROS 2 Tactile Sensing & LEAP Hand Simulation](link-to-repo)** — ROS 2 Jazzy, C++, Gazebo Harmonic, RViz. Simulating a robotic hand for tactile-sensing research and grasp monitoring.
 - 🧠 **[EMG-Based Hand Kinematics Estimation (Master's Thesis)](link-to-repo)** — Python, PyTorch, HD-sEMG. Deep learning pipeline to estimate hand kinematics from muscle activity for prosthetic control.
@@ -33,18 +33,4 @@ My work spans **embedded systems** (PIC, AVR), **robotics simulation** (ROS 2, G
 - 🌡️ **[AVR Environmental Monitoring System](link-to-repo)** — Embedded C, ATmega328P. Sensor interfacing (DHT11, DS3231) with I2C communication and LCD data display.
 
 
----
 
-## 📁 Projects
-
-I maintain a curated list of all my embedded systems and robotics projects:
-
-- 🟦 [**STM32 Projects**](link) — FreeRTOS, sensors, IoT, bare-metal
-- 🟩 [**PIC/dsPIC Projects**](link) — Robotic buggy, UART, PWM, state machine
-- 🤖 [**ROS2 Projects**](link) — Navigation, ArUco, Plansys2
-
-### Project Highlights
-
-- [**STM32 OTA Bootloader with W5500 Ethernet**](link) — Over-the-air firmware updates via Ethernet with CRC32 verification
-- [**STM32 Multi-Sensor Cloud Logger**](link) — Multi-sensor data logging to SD card + ThingSpeak cloud via MQTT
-- [**STM32 CAN Bus Sensor Network**](link) — Distributed dual-node system with hardware CAN filtering and LCD monitoring
