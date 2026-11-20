@@ -5,15 +5,6 @@ My work spans **embedded systems** (PIC, AVR), **robotics simulation** (ROS 2, G
 
 ---
 
-### 🔭 Current Focus
-
-- Completing my Master's Thesis at **IIT** on EMG-Based Hand Kinematics Estimation using Deep Learning (PyTorch) and HD-sEMG.
-- Developing ROS 2 workspaces for tactile sensing and robotic hand simulation (LEAP Hand) in Gazebo Harmonic.
-- Building embedded firmware for sensor integration and motor control on PIC and AVR microcontrollers.
-- Expanding my professional Italian language skills (currently B1).
-
----
-
 ### 🛠️ Skills
 
 | Category | Technologies |
