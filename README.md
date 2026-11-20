@@ -27,10 +27,10 @@ My work spans **embedded systems** (PIC, AVR), **robotics simulation** (ROS 2, G
 
 ### 📁 Projects & Research Highlight
 
-- 🤖 **[ROS 2 Tactile Sensing & LEAP Hand Simulation](link-to-repo)** — ROS 2 Jazzy, C++, Gazebo Harmonic, RViz. Simulating a robotic hand for tactile-sensing research and grasp monitoring.
-- 🧠 **[EMG-Based Hand Kinematics Estimation (Master's Thesis)](link-to-repo)** — Python, PyTorch, HD-sEMG. Deep learning pipeline to estimate hand kinematics from muscle activity for prosthetic control.
-- 🚗 **[PIC-Based Mobile Robot](link-to-repo)** — Embedded C, PIC Microcontroller. Firmware development with PWM motor control, UART communication, and sensor integration.
-- 🌡️ **[AVR Environmental Monitoring System](link-to-repo)** — Embedded C, ATmega328P. Sensor interfacing (DHT11, DS3231) with I2C communication and LCD data display.
+- 🤖 **[ROS 2 Tactile Sensing & LEAP Hand Simulation](https://github.com/sarvenazrobotics/ros2-tactile-leap-hand-simulation)** — ROS 2 Jazzy, C++, Gazebo Harmonic, RViz. Simulating a robotic hand for tactile-sensing research and grasp monitoring.
+- 🧠 **[EMG-Based Hand Kinematics Estimation (Master's Thesis)] — Python, PyTorch, HD-sEMG. Deep learning pipeline to estimate hand kinematics from muscle activity for prosthetic control.
+- 🚗 **[PIC-Based Mobile Robot](https://github.com/sarvenazrobotics/PIC-buggy-uart-pwm-sensors)** — Embedded C, PIC Microcontroller. Firmware development with PWM motor control, UART communication, and sensor integration.
+- 🌡️ **[AVR Environmental Monitoring System](https://github.com/sarvenazrobotics/AVR-dht11-ds3231-weatherstation)** — Embedded C, ATmega328P. Sensor interfacing (DHT11, DS3231) with I2C communication and LCD data display.
 
 
 
